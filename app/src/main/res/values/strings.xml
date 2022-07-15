@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sign In</string>
+    <string-array name="spinner1">
+        <item>Select a Food</item>
+        <item>Tacos</item>
+        <item>Pizza</item>
+        <item>Burgers</item>
+    </string-array>
+</resources>
